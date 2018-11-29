@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="http://on.ahmda.ws/ouIP/c">
+<img src="https://on.ahmda.ws/ouIP/c">
 <br><br>
 
   The Concept of `this` in JavaScript
@@ -7,7 +7,7 @@
 
 <br><br>
 
-![image](http://on.ahmda.ws/ou4S/c)
+![image](https://on.ahmda.ws/ou4S/c)
 
 ## TL;DR
 
@@ -18,7 +18,7 @@
 
 <br><br>
 
-![image](http://on.ahmda.ws/ouTw/c)
+![image](https://on.ahmda.ws/ouTw/c)
 
 ### Concept #1
 
@@ -30,7 +30,7 @@ typeOf(myName); // object <================== this is the resulting object.
 ```
 <br><br>
 
-![image](http://on.ahmda.ws/ouBd/c)
+![image](https://on.ahmda.ws/ouBd/c)
 
 ### Concept #2
 
@@ -50,7 +50,7 @@ sayMyName.call(person); // Ahmad Awais — <================== this is the objec
 
 <br><br>
 
-![Img](http://on.ahmda.ws/ouNb/c)
+![Img](https://on.ahmda.ws/ouNb/c)
 
 ### Concept #3
 
@@ -69,7 +69,7 @@ person.sayMyName(); // Ahmad Awais <================== this is the object on whi
 
 <br><br>
 
-![image](http://on.ahmda.ws/ouRL/c)
+![image](https://on.ahmda.ws/ouRL/c)
 
 ### Concept #4
 
@@ -89,7 +89,7 @@ sayMyName(); // undefined <================== this is undefined.
 
 <br><br>
 
-![image](http://on.ahmda.ws/ou7U/c)
+![image](https://on.ahmda.ws/ou7U/c)
 
 ### ES6 TIP:
 An arrow function expression has a shorter syntax than a function expression and does not have its own `this`.
@@ -98,7 +98,7 @@ An arrow function expression has a shorter syntax than a function expression and
 
 ---
 
-![image](http://on.ahmda.ws/ou71/c)
+![image](https://on.ahmda.ws/ou71/c)
 
 ## License & Attribution
 
@@ -127,7 +127,7 @@ MIT © [Ahmad Awais](https://AhmadAwais.com/).
 </table>
 <br>
 
-![Hello](http://on.ahmda.ws/ouK5/c)
+![Hello](https://on.ahmda.ws/ouK5/c)
 
 #### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
 
@@ -138,7 +138,7 @@ If you'd like to get insights into our love for open source software, profession
 
 <br>
 
-![Partners](http://on.ahmda.ws/ou6K/c)
+![Partners](https://on.ahmda.ws/ou6K/c)
 
 #### Project Backers & [WPCouple Partners](https://WPCouple.com/partners) ⚡️
 
@@ -148,29 +148,29 @@ This FOSS (free and open source software) project is updated and maintained with
 
 <table width='100%'>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtrE/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://kinsta.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mu5O/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wpengine.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mto3/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrE/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://kinsta.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu5O/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wpengine.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mto3/c' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.sitelock.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtyZ/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wp-rocket.me/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtrv/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://blogvault.net/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtph/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.sitelock.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtyZ/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wp-rocket.me/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrv/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://blogvault.net/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtph/c' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='http://cridio.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtmy/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='http://wecobble.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtrW/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mu0C/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://cridio.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtmy/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wecobble.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrW/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu0C/c' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mu9W/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtwv/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtkh/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu9W/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtwv/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtkh/c' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/n3ug/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.liquidweb.com/?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mtnt/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='http://on.ahmda.ws/mu3F/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/n3ug/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.liquidweb.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtnt/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu3F/c' /></a></td>
 	</tr>
 </table>
 
